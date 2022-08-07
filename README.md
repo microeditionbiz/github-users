@@ -1,8 +1,8 @@
-# github-users
+# GitHub Users
 
 This project is to play with SwiftUI mainly.
 
-### features included
+### Features included
 
 * Ability to list users.
 * Ability to search users.
